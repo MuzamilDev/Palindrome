@@ -1,1 +1,1 @@
-# Palindrome-Javascript
+# Palindrome-based-repository
